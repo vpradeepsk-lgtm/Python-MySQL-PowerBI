@@ -26,7 +26,8 @@ Total Sales Dollar
 
 Gross Profit & Margin Analysis
 
-Example Insights from Dashboard
+
+*Example Insights from Dashboard
 
 Vendors with high sales but low stock turnover indicate potential supply chain inefficiencies.
 
