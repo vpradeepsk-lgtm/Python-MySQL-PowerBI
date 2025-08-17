@@ -27,7 +27,7 @@ Total Sales Dollar
 Gross Profit & Margin Analysis
 
 
-*Example Insights from Dashboard
+<sign>## 📈 Example Insights from Dashboard</sign>
 
 Vendors with high sales but low stock turnover indicate potential supply chain inefficiencies.
 
@@ -37,12 +37,16 @@ Low-turnover vendors (e.g., Dunn Wine Brokers) may need renegotiation or replace
 
 Targeted brands with low sales but high margins can be leveraged for premium positioning.
 
+
+
 🛠️ Tools & Technologies
 
-Power BI Desktop – Dashboard creation
+Power BI Desktop – Dashboard creation & visualization
 
 SQL Server – Primary data source
 
 DAX – KPI and metric calculations
 
-Excel/CSV – Additional data inputs
+Excel/CSV – Supplementary data inputs
+
+Python (Pandas, NumPy) – Data preprocessing, cleaning, and transformation before loading into Power BI
